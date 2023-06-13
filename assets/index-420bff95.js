@@ -1,0 +1,1 @@
+import{ck as t}from"./index-9741e164.js";const r=t.create({baseURL:"http://mall.qzimp.cn",withCredentials:!0});r.interceptors.request.use(e=>e,e=>Promise.reject(e));r.interceptors.response.use(e=>e,e=>Promise.reject(e));export{r as a};

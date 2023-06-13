@@ -1,0 +1,1 @@
+import{_ as e,m as s,c as o,o as c}from"./index-9741e164.js";const n=s({}),t={class:""};function a(r,_,p,d,f,i){return c(),o("div",t,"changePassword页面")}const l=e(n,[["render",a]]);export{l as default};
